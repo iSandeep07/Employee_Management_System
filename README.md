@@ -1,1 +1,1 @@
-Technology used : Springboot,react,sql
+Technology used : Springboot,Mysql
